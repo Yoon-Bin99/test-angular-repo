@@ -1,4 +1,4 @@
 #!/bin/bash
 
 
-sudo service nginx restartgit  
+sudo service nginx restart
